@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sakshiwebstudio.vercel.app/sitemap.xml
